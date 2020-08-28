@@ -4,7 +4,7 @@ This example demonstrates Thingsup MQTT Service with ESP32.
 
 ## Installation
 
-1. Install Arduino with ESP32 Board [Ref](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+1. Install Arduino with ESP32 Board [Refer Here](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 2. Plug in NodeMCU board with ESP32
 3. Change the account related parameters in code 
 4. Compile/Download the code in NodeMCU board
